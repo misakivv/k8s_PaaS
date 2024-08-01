@@ -1,4 +1,4 @@
-## Kubernetes调度机制
+## Kubernetes基本资源的调度机制
 
 ### Kubernetes的资源模型与资源管理
 
